@@ -1,23 +1,23 @@
 node-wc
 =======
 
-Description
+## Description
 
 * node-wc: (https://github.com/masubi/node-wc)
 
 ## Install
 
-npm install .
-npm link
+* npm install .
+* npm link
 
 ## Usage
 
   node-wc - print the number of lines, words, bytes
-  USAGE:  node-wc [-c][-m][-l][-w] filename
-  ‘-c’ Print only the byte counts.
-  ‘-m’ Print only the character counts.
-  ‘-w’ Print only the word counts.
-  ‘-l’ Print only the newline counts.
+  - USAGE:  node-wc [-c][-m][-l][-w] filename
+  - ‘-c’ Print only the byte counts.
+  - ‘-m’ Print only the character counts.
+  - ‘-w’ Print only the word counts.
+  - ‘-l’ Print only the newline counts.
 
   e.g. node index.js -l someFile.txt
 
