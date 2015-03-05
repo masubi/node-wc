@@ -3,7 +3,8 @@ node-wc
 
 ## Description
 
-* node-wc: (https://github.com/masubi/node-wc)
+node-wc: (https://github.com/masubi/node-wc).  There maybe some unstated file limitations.
+Also assumes reading characters in UTF8
 
 ## Install
 
